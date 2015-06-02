@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>figwheel-sidecar</groupId>
+  <artifactId>figwheel-sidecar</artifactId>
+  <version>0.2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150130.003542</timestamp>
+      <buildNumber>12</buildNumber>
+    </snapshot>
+    <lastUpdated>20150130003542</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.2-20150130.003542-12</value>
+        <updated>20150130003542</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.2-20150130.003542-12</value>
+        <updated>20150130003542</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

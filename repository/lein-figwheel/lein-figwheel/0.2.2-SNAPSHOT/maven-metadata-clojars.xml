@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>lein-figwheel</groupId>
+  <artifactId>lein-figwheel</artifactId>
+  <version>0.2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150122.025744</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20150122025744</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.2-20150122.025744-4</value>
+        <updated>20150122025744</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.2-20150122.025744-4</value>
+        <updated>20150122025744</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

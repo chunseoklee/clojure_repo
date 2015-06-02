@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>lein-cljsbuild</groupId>
+  <artifactId>cljs-compat</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150115.114418</timestamp>
+      <buildNumber>30</buildNumber>
+    </snapshot>
+    <lastUpdated>20150115114418</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20150115.114418-30</value>
+        <updated>20150115114418</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20150115.114418-30</value>
+        <updated>20150115114418</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
